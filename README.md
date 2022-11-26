@@ -1,5 +1,2 @@
 # multibranch-pipeline-demo
-Jenkins Multibranch Pipeline Example Repo 
-
-
-Testoing.... 
+Jenkins Multibranch Pipeline Example Repo
